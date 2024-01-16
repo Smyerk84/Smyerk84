@@ -4,9 +4,6 @@
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>👨‍💻 Relevant YouTube Videos:</h2>
-
-- [Tuturial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2>📄 Certifications: </h2>
 
