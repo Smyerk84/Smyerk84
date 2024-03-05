@@ -1,4 +1,6 @@
 <h1>Hi, I'm Erik Breandan Smyth! 
+<h1>Summary</h1>
+Motivated and technically adept individual with a solid foundation in IT support, demonstrated through hands-on projects and home labs. Possessing multiple CompTIA industry certifications and currently pursuing a Bachelor's degree in Cybersecurity. Eager to leverage my practical experience and academic knowledge to excel in an IT support role. Committed to delivering exceptional technical assistance and problem-solving solutions while continuously expanding my skills and contributing to the success of the team.  
 <h2>👨‍💻 IT Projects:</h2>
 
 
