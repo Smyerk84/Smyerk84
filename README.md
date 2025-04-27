@@ -1,6 +1,6 @@
 <h1>Hi, I'm Erik Breandan Smyth! 
 <h1>Summary</h1>
-Motivated and technically adept individual with a solid foundation in IT support, demonstrated through hands-on projects and home labs. Possessing multiple CompTIA industry certifications and currently pursuing a Bachelor's degree in Cybersecurity. Eager to leverage my practical experience and academic knowledge to excel in an IT support role. Committed to delivering exceptional technical assistance and problem-solving solutions while continuously expanding my skills and contributing to the success of the team.  
+Aspiring Network Administrator with A+, Network+, Project+, and ITILv4 certifications, and currently pursuing the CCNA. Hands-on experience building home labs with Active Directory, Windows Server, VPNs, and core networking services. Passionate about solving technical challenges, expanding my skills, and contributing to strong IT teams. Pursuing a Bachelor's in Network Engineering and Security at WGU (paused, planning to resume). Excited to connect and grow in the networking field!
 <h2>👨‍💻 IT Projects:</h2>
 
 
