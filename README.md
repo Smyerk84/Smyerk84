@@ -1,12 +1,20 @@
 <h1>Hi, I'm Erik Smyth! 
 <h1>Summary</h1>I'm an entry-level cloud professional transitioning from a 20+ year career in residential painting and construction project coordination into the digital side of healthcare.
-  I specialize in Microsoft Azure, building secure and scalable environments that align with HIPAA compliance, healthcare IoT integrations, and real-time patient monitoring solutions. ⚫ My T-shaped expertse spans:
-🔹 Azure Administrator – Virtual networks, IAM, VM provisioning, storage
-🔹 Azure Security – Conditional access, Defender, JIT access, DLP
-🔹 Healthcare IoT – IoT Hub, FHIR APIs, Stream Analytics, secure device telemetry ⚫
-My GitHub showcases real-world cloud labs simulating clinic-level infrastructure and IoT projects. ⚫ I’m currently targeting cloud admin and healthcare cloud roles in Georgia and remote-friendly positions.
-Let’s connect if you're building HIPAA-compliant cloud environments, integrating IoT in healthcare, or need a motivated technologist who understands both physical and digital infrastructure.
-  
+
+I specialize in **Microsoft Azure**, building secure and scalable environments that align with HIPAA compliance, healthcare IoT integrations, and real-time patient monitoring solutions.
+
+My **T-shaped expertise** spans:
+
+🔹 **Azure Administrator** – Virtual networks, IAM, VM provisioning, storage  
+🔹 **Azure Security** – Conditional access, Defender, JIT access, DLP  
+🔹 **Healthcare IoT** – IoT Hub, FHIR APIs, Stream Analytics, secure device telemetry  
+
+My GitHub showcases real-world cloud labs simulating clinic-level infrastructure and IoT projects. I’m currently targeting **cloud admin** and **healthcare cloud** roles in Georgia and remote-friendly positions.
+
+---
+
+**Let’s connect** if you're building HIPAA-compliant cloud environments, integrating IoT in healthcare, or need a motivated technologist who understands both physical and digital infrastructure.
+
 <h2>☁️ Azure T-shaped Projects:</h2>
   
   - [Azure T-shaped Labs](https://github.com/Smyerk84/azure-t-shaped-labs)
