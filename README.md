@@ -1,7 +1,7 @@
 <h1>Hi, I'm Erik Smyth! 
 <h1>Summary</h1>I'm an entry-level cloud professional transitioning from a 20+ year career in residential painting and construction project coordination into the digital side of healthcare.
-
-I specialize in **Microsoft Azure**, building secure and scalable environments that align with HIPAA compliance, healthcare IoT integrations, and real-time patient monitoring solutions.
+  
+I specialize in Microsoft Azure, building secure and scalable environments that align with HIPAA compliance, healthcare IoT integrations, and real-time patient monitoring solutions.
 
 My **T-shaped expertise** spans:
 
