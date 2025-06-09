@@ -1,6 +1,16 @@
 <h1>Hi, I'm Erik Smyth! 
 <h1>Summary</h1>
-Aspiring Network Administrator with A+, Network+, Project+, and ITILv4 certifications, and currently pursuing the CCNA. Hands-on experience building home labs with Active Directory, Windows Server, VPNs, and core networking services. Passionate about solving technical challenges, expanding my skills, and contributing to strong IT teams. Pursuing a Bachelor's in Network Engineering and Security at WGU (paused, planning to resume). Excited to connect and grow in the networking field!
+I'm an entry-level cloud professional transitioning from 20+ years in infrastructure and project management into the digital side of healthcare.
+
+I specialize in Microsoft Azure, building secure and scalable environments that align with HIPAA compliance, healthcare IoT integrations, and real-time patient monitoring solutions. My T-shaped expertise spans:
+
+🔹 Azure Administrator – Virtual networks, IAM, VM provisioning, storage
+🔹 Azure Security – Conditional access, Defender, JIT access, DLP
+🔹 Healthcare IoT – IoT Hub, FHIR APIs, Stream Analytics, secure device telemetry
+
+My GitHub showcases real-world cloud labs simulating clinic-level infrastructure and IoT projects. I’m currently targeting cloud admin and healthcare cloud roles in Georgia and remote-friendly positions.
+
+Let’s connect if you're building HIPAA-compliant cloud environments, integrating IoT in healthcare, or need a motivated technologist who understands both physical and digital infrastructure.
 <h2>👨‍💻 IT Projects:</h2>
 
 
