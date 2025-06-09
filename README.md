@@ -2,8 +2,8 @@
 <h1>Summary</h1>I'm an entry-level cloud professional transitioning from 20+ years in infrastructure and project management into the digital side of healthcare.
   I specialize in Microsoft Azure, building secure and scalable environments that align with HIPAA compliance, healthcare IoT integrations, and real-time patient monitoring solutions. 
   
-  My T-shaped expertise spans:
-
+ 
+  My T-shaped expertse spans:
 🔹 Azure Administrator – Virtual networks, IAM, VM provisioning, storage
 🔹 Azure Security – Conditional access, Defender, JIT access, DLP
 🔹 Healthcare IoT – IoT Hub, FHIR APIs, Stream Analytics, secure device telemetry
