@@ -6,7 +6,7 @@
 🔹 Healthcare IoT – IoT Hub, FHIR APIs, Stream Analytics, secure device telemetry
 My GitHub showcases real-world cloud labs simulating clinic-level infrastructure and IoT projects. I’m currently targeting cloud admin and healthcare cloud roles in Georgia and remote-friendly positions.
 Let’s connect if you're building HIPAA-compliant cloud environments, integrating IoT in healthcare, or need a motivated technologist who understands both physical and digital infrastructure.
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 IT Support Projects:</h2>
 
 
   - [Active Directory Home Lab](https://github.com/Smyerk84/ActiveDirectoryLab)
