@@ -19,7 +19,7 @@ My GitHub showcases real-world cloud labs simulating clinic-level infrastructure
   
   - [Azure Administrator Labs (Core AZ-104)](https://github.com/Smyerk84/azure-t-shaped-labs)
 
-  - [Azure Security Labs (AZ-500 Foundation)](https://github.com/Smyerk84/Azure-Security-Labs-AZ-500-Foundation)
+  - [Azure Security Labs (AZ-500 Foundation)](https://github.com/Smyerk84/Azure-Security-Labs-AZ-500-Foundation-)
 
   - [Healthcare IoT & Integration Labs]
     
