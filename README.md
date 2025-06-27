@@ -17,7 +17,7 @@ My GitHub showcases real-world cloud labs simulating clinic-level infrastructure
 
 <h2>☁️ Azure T-shaped Projects:</h2>
   
-  - [Azure Administrator Labs (Core AZ-104)](https://github.com/Smyerk84/azure-t-shaped-labs)
+  - [Azure Administrator Labs (Core AZ-104)]
 
   - [Azure Security Labs (AZ-500 Foundation)]
 
