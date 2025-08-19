@@ -1,21 +1,16 @@
 <h1>Hi, I'm Erik Smyth! 
-<h1>Summary</h1>I'm an entry-level cloud professional transitioning from a 20+ year career in residential painting and construction project coordination into the digital side of healthcare.
-  
-I specialize in Microsoft Azure, building secure and scalable environments that align with HIPAA compliance, healthcare IoT integrations, and real-time patient monitoring solutions.
+<h1>Summary</h1>I’m an entry-level IT professional with CompTIA A+, Network+, Project+, and ITIL v4 certifications, and hands-on experience with Active Directory and Windows Server 2019. I have built home lab environments to practice user/group management, Group Policy, and foundational network administration.
 
-My **T-shaped expertise** spans:
+Currently, I am pursuing the Microsoft Azure Fundamentals (AZ-900) certification to expand my skills in cloud administration and security. My goal is to transition into IT support, help desk, or NOC roles while continuing to grow in Azure cloud technologies.
 
-🔹 **Azure Administrator** – Virtual networks, IAM, VM provisioning, storage  
-🔹 **Azure Security** – Conditional access, Defender, JIT access, DLP  
-🔹 **Healthcare IoT** – IoT Hub, FHIR APIs, Stream Analytics, secure device telemetry  
+On this GitHub, you’ll find verified labs, project walkthroughs, and code snippets demonstrating my technical skills and hands-on experience. All certifications, labs, and projects are linked and fully verifiable to support my professional profile.
 
-My GitHub showcases real-world cloud labs simulating clinic-level infrastructure and IoT projects. I’m currently targeting **cloud admin** and **healthcare cloud** roles in Georgia and remote-friendly positions.
+<h2>👨‍💻 IT Support Projects & Labs:</h2>
 
----
 
-**Let’s connect** if you're building HIPAA-compliant cloud environments, integrating IoT in healthcare, or need a motivated technologist who understands both physical and digital infrastructure.
+  - [Active Directory Home Lab](https://github.com/Smyerk84/ActiveDirectoryLab)
 
-<h2>☁️ Azure T-shaped Projects:</h2>
+  - <h2>☁️ Future Azure T-shaped Projects & Labs:</h2>
   
   - [Azure Administrator Labs (Core AZ-104)]
 
@@ -23,10 +18,6 @@ My GitHub showcases real-world cloud labs simulating clinic-level infrastructure
 
   - [Healthcare IoT & Integration Labs]
     
-<h2>👨‍💻 IT Support Projects:</h2>
-
-
-  - [Active Directory Home Lab](https://github.com/Smyerk84/ActiveDirectoryLab)
 
 
 <h2>📄 Certifications: </h2>
