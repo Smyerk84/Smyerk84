@@ -10,6 +10,8 @@ On this GitHub, you’ll find verified labs, project walkthroughs, and code snip
 
   - [Active Directory Home Lab](https://github.com/Smyerk84/ActiveDirectoryLab)
 
+  - [Jira ServiceNow Ticketing Lab](https://github.com/Smyerk84/jira-servicenow-lab)
+
 <h2>☁️ Cloud Projects & Labs:</h2>
 
 
