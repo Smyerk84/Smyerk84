@@ -10,6 +10,9 @@ On this GitHub, you’ll find verified labs, project walkthroughs, and code snip
 
   - [Active Directory Home Lab](https://github.com/Smyerk84/ActiveDirectoryLab)
 
+<h2>☁️ Cloud Projects & Labs:</h2>
+
+
 <h2>☁️ Future Azure T-shaped Projects & Labs:</h2>
   
   - [Azure Administrator Labs (Core AZ-104)]
